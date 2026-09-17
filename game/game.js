@@ -658,20 +658,6 @@ const LEVELS = {
   // Helicate Balance
   // Use Hel's multihit before killing too many giants.
   35: ["-----J3----K4-J2-J1J3------J2-J1", [HEIMDALL, FRIGG, HEL]],
-
-  // Lines in the Ice
-  // Use Loki to swap Heimdall and Thor into the action and Frigg + Hel to clean up.
-  36: [
-    "--I0---J1I0J1-I0I0K7I0I0-J1I0J1---I0",
-    [HEIMDALL, THOR, FRIGG, HEL, LOKI],
-  ],
-
-  // The Piggyback
-  // Use Loki to piggyback Heimdall from one corner to the other.
-  37: ["J1-----------------------J1", [LOKI, HEIMDALL]],
-
-  // Blood Diamond
-  38: ["--K2---K2-K2-K2-J6-K2-K2-K2---K2", [LOKI, TYR, HEIMDALL, FRIGG, HEL]],
 };
 
 /**
