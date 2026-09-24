@@ -1,4 +1,8 @@
 ---
+genres:
+  - strategy
+  - tabletop
+  - puzzle
 post: https://github.com/danprince/gjallarhorn/blob/main/postmortem/README.md
 ---
 
